@@ -13,3 +13,6 @@ we agreed on this: asdfadjhfgsdahf
 =======
 entry in branch new
 >>>>>>> new
+
+
+after new2 was created
